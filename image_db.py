@@ -11,8 +11,8 @@ import os
 mydb = mysql.connector.connect(
 	host="localhost",
 	user="root",
-	password="00000000",
-	database="sedatabase" # Name of the database
+	password="12345678",
+	database="database" # Name of the database
 )
 
 # Create a cursor object
